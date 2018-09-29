@@ -1,6 +1,6 @@
 # React/Redux Budget Tracker
 
-A bare bones react starter set of files
+This is a React budget tracker to handle all your daily spending activities.
 
 ## Setup
 
